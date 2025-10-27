@@ -11,6 +11,12 @@ Timestamps:
 —
 #python #learnpython #pythonforbeginners #programming #vscode
 TAGS: python beginner tutorial, learn python, python explained simply, python tutorial 2025, python for absolute beginners, python vs code tutorial, why learn python, python course for beginners
+
+YOU SAY (serious but calm tone):
+“Most beginners quit programming — not because it’s hard, but because they start with the wrong language.”
+Mini pause.
+“Today, I’ll show you why that won’t happen to you.”
+
 SCREEN: VS Code already open in full screen, dark theme, empty file named intro.py.
 YOU SAY:
 Welcome to The Python Path — and today, I’ll show you why Python is one of the most beginner-friendly programming languages ever created.
