@@ -1,0 +1,92 @@
+“Why Python Is the Perfect First Programming Language”
+Description:
+Python is the easiest programming language to start with — but most beginners learn it the wrong way. In this video, I explain why Python is the perfect first programming language and show real code examples inside VS Code.
+You’ll understand what Python actually is, why it’s used everywhere, and see your first working program — with zero experience required.
+This is Episode 1 of The Python Path — a complete step-by-step Python learning series for absolute beginners.
+Next episode: full Python + VS Code installation — subscribe so you don’t miss it.
+—
+Timestamps:
+0:00 Intro
+(You can add more after upload)
+—
+#python #learnpython #pythonforbeginners #programming #vscode
+TAGS: python beginner tutorial, learn python, python explained simply, python tutorial 2025, python for absolute beginners, python vs code tutorial, why learn python, python course for beginners
+SCREEN: VS Code already open in full screen, dark theme, empty file named intro.py.
+YOU SAY:
+Welcome to The Python Path — and today, I’ll show you why Python is one of the most beginner-friendly programming languages ever created.
+Mini pause. Calm confidence.
+YOU SAY:
+Not with complicated theory — but with real code, right here inside VS Code.
+YOU SAY (as you begin typing):
+Let me show you something extremely simple.
+SCREEN: Type:
+print("Hello, world!")
+YOU SAY (naturally as you finish typing):
+Just one line of code.
+SCREEN: Run the file — terminal shows: Hello, world!
+YOU SAY:
+That’s a complete Python program. One line — and it already works.
+This simplicity is one of the biggest reasons why Python is the perfect first programming language.
+SCREEN: Scroll slightly for space and type under it:
+name = "Maria"
+print("Hello, " + name)
+YOU SAY:
+For example — this is enough to make the computer greet someone by name.
+SCREEN: Run again — output: Hello, Maria
+YOU SAY:
+No confusing symbols. No setup pain. It almost reads like English.
+SCREEN: Add a quick comment block below:
+# Python is used for:
+# - Web apps
+# - Data & AI
+# - Automation
+YOU SAY:
+And Python isn’t just beginner-friendly.
+It powers websites like Instagram.
+It runs machine learning and AI.
+And even automates boring everyday tasks — like cleaning files or sending emails automatically.
+YOU SAY (slightly more inspiring tone):
+So whether you dream about building websites… AI tools…
+or just automating your own life — learning Python can take you there.
+SCREEN: Clear screen or open new file basics.py.
+YOU SAY:
+And here’s how we’re going to learn Python on this channel.
+I won’t jump straight into complex theory.
+And I also won’t just throw code at you without context.
+We’ll do this the right way — step by step, with real understanding and real practice.
+By the end of every lesson, you won’t just watch Python — you’ll actually write Python yourself.
+YOU SAY:
+No experience needed. I’ll explain everything clearly — but without wasting your time.
+SCREEN: In basics.py, type:
+# What is Python?
+# You write instructions.
+# Python reads them.
+# The computer executes them.
+YOU SAY:
+Python is just a language — a way to give instructions to a computer.
+You write instructions. Python reads them.
+And your computer executes them — step by step.
+SCREEN: Type a simple analogy:
+# Example:
+# Imagine telling a robot:
+# "Go forward 3 steps"
+# "Turn left"
+# "Pick up the box"
+YOU SAY:
+Imagine you’re giving instructions to a robot. Step by step.
+That’s literally what programming is.
+Programming is just giving clear instructions to a computer.
+YOU SAY (transition):
+So now — let’s check if Python is already installed on your system.
+SCREEN: Open VS Code terminal, type:
+python --version
+YOU SAY:
+If you see a version number here — perfect.
+If not — no problem.
+In the next video, I’ll show you exactly how to install both Python and VS Code properly, step by step.
+So don’t worry if yours doesn’t show anything yet — you’re still following correctly.
+YOU SAY (inspiring closing tone):
+If this is your first step into programming — you’ve already done more than most people ever do.
+You now understand what Python really is — and in the next video, we’ll install everything together and start writing real code.
+You’re officially on the path.
+This is just the beginning.
